@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+
+}
+body{ 
+   
+color: white;
+height: 100vh;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+background-color:#202124;
+}
+.Container{
+  display: flex;
+width: 40%;
+min-width: none;
+justify-content: space-around;
+gap: 20px ;}
+    
+
+
+.Formater{display: flex;
+    flex-direction: column;
+    align-items: center;
+
+
+}
+.number{font-size: 7rem;}
+.tex{
+    font-size: 16px;
+    font-size: 1,5rem;
+}
+
